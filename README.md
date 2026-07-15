@@ -42,56 +42,41 @@ I'm a **Computer Engineer** focused on **Artificial Intelligence & Machine Learn
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
 <h2>🧰 Tech Stack</h2>
 
-<b>AI / Machine Learning</b><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<div align="center">
+
+<b>🤖 AI / Machine Learning</b><br/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,opencv,anaconda&theme=light" alt="ai" /><br/>
+<sub><i>+ LLMs · Hugging Face · LangChain · RAG · Fine-tuning</i></sub>
 
 <br/><br/>
-<b>Languages</b><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+
+<b>💻 Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,cs,html,css&theme=light" alt="languages" />
 
 <br/><br/>
-<b>Frontend &amp; Mobile</b><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+
+<b>⚛️ Frontend &amp; Mobile</b><br/>
+<img src="https://skillicons.dev/icons?i=react,reactnative,bootstrap&theme=light" alt="frontend" />
 
 <br/><br/>
-<b>Backend · Databases · Cloud</b><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 
-<br/><br/>
+<b>🗄️ Backend · Databases · Cloud</b><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,mysql,sqlite,firebase,gcp,docker,git&theme=light" alt="backend" />
+
+</div>
+
+<br/>
 
 <!-- ══════════════════════ STATS ══════════════════════ -->
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kaankirdi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=4F46E5&icon_color=0EA5E9&text_color=64748B" alt="stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaankirdi&layout=compact&hide_border=true&border_radius=12&bg_color=00000000&title_color=4F46E5&text_color=64748B" alt="top langs" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kaankirdi&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=4F46E5&icon_color=0EA5E9&text_color=64748B" alt="stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaankirdi&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=4F46E5&text_color=64748B" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kaankirdi&hide_border=true&border_radius=12&background=00000000&ring=4F46E5&fire=0EA5E9&currStreakLabel=4F46E5&sideLabels=64748B&dates=94A3B8&currStreakNum=334155&sideNums=334155" alt="streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaankirdi&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 </div>
 
 <br/>
