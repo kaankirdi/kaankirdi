@@ -1,6 +1,6 @@
 <!-- ════════════════════════════  HEADER  ════════════════════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4F46E5,0EA5E9&height=220&section=header&text=Mert%20Kaan%20KIRDI&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineer%20%7C%20AI%20and%20Machine%20Learning&descSize=20&descColor=eef2ff" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4F46E5,0EA5E9&height=220&section=header&text=Mert%20Kaan%20Kirdi&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineer%20%7C%20AI%20and%20Machine%20Learning&descSize=20&descColor=eef2ff" alt="header"/>
 </div>
 
 <div align="center">
@@ -73,8 +73,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaankirdi&theme=tokyonight&hide_border=true" alt="streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaankirdi&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 </div>
 
 <br/>
