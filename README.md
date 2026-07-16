@@ -1,6 +1,6 @@
 <!-- ════════════════════════════  HEADER  ════════════════════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=220&section=header&text=Mert%20Kaan%20Kirdi&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineer%20%7C%20AI%20%26%20Machine%20Learning&descSize=20&descColor=eef2ff" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4F46E5,0EA5E9&height=220&section=header&text=Mert%20Kaan%20Kirdi&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineer%20%7C%20AI%20and%20Machine%20Learning&descSize=20&descColor=eef2ff" alt="header"/>
 </div>
 
 <div align="center">
@@ -76,9 +76,6 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=kaankirdi&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 </div>
-<div align="center">
-  <sup><i>(Not: GitHub istatistik kartları yoğunluk sebebiyle bazen geç yüklenebilir.)</i></sup>
-</div>
 
 <br/>
 
@@ -99,7 +96,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:4F46E5&height=120&section=footer" alt="footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0EA5E9,4F46E5&height=120&section=footer" alt="footer"/>
   <br/>
   <sub>Thanks for visiting — let's build something meaningful. 🚀</sub>
 </div>
