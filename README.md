@@ -95,17 +95,17 @@ I'm a **Computer Engineer** focused on **Artificial Intelligence & Machine Learn
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kaankirdi&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=4F46E5&icon_color=0EA5E9&text_color=808080&cache_seconds=86400" alt="stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaankirdi&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=4F46E5&text_color=808080&cache_seconds=86400" alt="top-langs" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaankirdi&hide_border=true&background=00000000&ring=4F46E5&fire=0EA5E9&currStreakLabel=4F46E5&sideLabels=808080&dates=808080&stroke=4F46E5" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaankirdi&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-</div>
+<!--
+  NOTE: The github-readme-stats "stats" & "top-langs" cards and the trophy card
+  were removed on 2026-07-16 because their public servers were returning 503/402
+  (a third-party outage, not a config error). To restore rich stats reliably,
+  self-host github-readme-stats on your own Vercel instance and point the cards
+  at YOUR-INSTANCE.vercel.app instead of github-readme-stats.vercel.app.
+  See: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
 
 <br/>
 
