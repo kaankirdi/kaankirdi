@@ -43,12 +43,12 @@ I'm a **Computer Engineer** focused on **Artificial Intelligence & Machine Learn
 
 <!-- AI / ML -->
 <b>🤖 AI / Machine Learning</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ai-ml" /><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="numpy" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="huggingface" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="langchain" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="openai" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ai-ml" /><br/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
 
 <br/><br/>
 
@@ -60,9 +60,9 @@ I'm a **Computer Engineer** focused on **Artificial Intelligence & Machine Learn
 
 <!-- Frontend & Mobile -->
 <b>⚛️ Frontend &amp; Mobile</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark" alt="frontend" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react-native" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="expo" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark" alt="frontend" /><br/><br/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo" />
 
 <br/><br/>
 
